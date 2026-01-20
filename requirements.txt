@@ -1,0 +1,12 @@
+discord.py[voice]
+discord-ext-voice-recv
+faster-whisper
+ollama
+chromadb
+python-dotenv
+websockets
+numpy
+scipy
+fastapi
+uvicorn
+requests
